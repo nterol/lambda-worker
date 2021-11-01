@@ -1,0 +1,6 @@
+name = "lambda-worker"
+type = "webpack"
+account_id = "817ccbd8f47bdd3e90b29deeb68a027d"
+workers_dev = true
+route = ""
+zone_id = ""
